@@ -1,9 +1,11 @@
 {
-  "author": "Hubert Orlik-Grzesik",
+  "author": "Hubert Orlik-Grzesik <hubert@orlikarnia.com>",
   "name": "hoop",
+  "license": "MIT",
   "description": "Classes in plain Javascript - the right way.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
+    "type": "git",
     "url": "https://github.com/subhog/hoop"
   },
   "main": "./hoop.js",
@@ -12,5 +14,12 @@
   "optionalDependencies": {},
   "engines": {
     "node": "*"
-  }
+  },
+  "keywords": [
+    "classes",
+    "objective",
+    "objects",
+    "oop"
+  ],
+  "readmeFilename": "readme.md"
 }
