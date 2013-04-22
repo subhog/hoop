@@ -1,0 +1,16 @@
+{
+  "author": "Hubert Orlik-Grzesik",
+  "name": "hoop",
+  "description": "Classes in plain Javascript - the right way.",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/subhog/hoop"
+  },
+  "main": "./hoop.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}

@@ -1,0 +1,1 @@
+Classes in javascript - the right way
