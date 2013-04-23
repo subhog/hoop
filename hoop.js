@@ -1,5 +1,5 @@
 GLOBAL.$extends = function(child, parent) {
-  child.prototype = new parent;
+  child.prototype = Object.create(parent.prototype);
   child.prototype.constructor = child;
   child.prototype.super = parent.prototype;
 }
